@@ -212,12 +212,12 @@
     color: orange;
   }
 
-  a {
+  #githubLink {
     color: orange;
     outline: none !important;
   }
 
-  a:hover {
+  #githubLink:hover {
     color: white;
     text-decoration: none;
     background-color: orange;
