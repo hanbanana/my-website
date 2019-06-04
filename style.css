@@ -235,40 +235,47 @@
     margin-bottom: 30px;
   }
 
-  .project-2 {
+  .project-102 {
     background-image: url("images/movieSearchMainPage.PNG");
   }
   
-  .project-3 {
+  .project-103 {
     background-image: url("images/table-reservation.JPG");
   }
   
-  .project-4 {
+  .project-104 {
     background-image: url("images/book-search.JPG");
   }
 
-  .project-5 {
+  .project-201 {
     background-image: url("images/delivery-order-MainAndcreateOrder-page.PNG");
   }
   
-  .project-6 {
+  .project-202 {
     background-image: url("images/waitingListMainPage.png");
   }
   
-  .project-7 {
+  .project-203 {
     background-image: url("images/mongoNoteAppMainPage.PNG");
   }
 
-  .project-8 {
+  .project-204 {
+    background-image: url("images/colorPickerMainPage.png");
+  }
+
+  .project-301 {
     background-image: url("images/user-open-ticket.png");
   }
 
-  .project-9 {
+  .project-302 {
     background-image: url("images/movieSearchReactAppImage.PNG");
   }
 
-  .project-10 {
+  .project-303 {
     background-image: url("images/lotteryNumberGeneratorMain.PNG");
+  }
+  .project-304 {
+    background-image: url("images/wpMain.PNG");
   }
   
   .project-hover {
