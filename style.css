@@ -223,6 +223,21 @@
     background-color: orange;
   }
 
+  #navHomeButton:hover {
+    color: orange;
+    background-color: black;
+  }
+
+  #navLogoButton:hover {
+    color: orange;
+    background-color: black;
+  }
+
+  #navTogglerButton:hover {
+    color: orange;
+    background-color: black;
+  }
+
   /* My Portfolio */
   .project {
     width: 100%;
