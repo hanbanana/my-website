@@ -110,6 +110,10 @@
   } 
 
   .aboutMeDiv {
+    /* background-color: rgb(246, 246, 246); */
+  }
+
+  .myPortfolio {
     background-color: rgb(246, 246, 246);
   }
 
