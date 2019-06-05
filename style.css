@@ -216,6 +216,48 @@
     color: orange;
   }
 
+  #emailId {
+    color: black;
+    outline: none !important;
+  }
+
+  #emailId:hover {
+    color: orange;
+    text-decoration: none;
+    
+  }
+
+  #emailId2 {
+    color: black;
+    outline: none !important;
+  }
+
+  #emailId2:hover {
+    color: orange;
+    text-decoration: none;
+    
+  }
+
+  #fafaLnedin {
+    color: black;
+    outline: none !important;
+  }
+
+  #fafaLnedin:hover {
+    color: orange;
+    text-decoration: none;
+  }
+
+  #linkedinId2 {
+    color: black;
+    outline: none !important;
+  }
+
+  #linkedinId2:hover {
+    color: orange;
+    text-decoration: none;
+  }
+
   #githubLink {
     color: orange;
     outline: none !important;
