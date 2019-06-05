@@ -264,9 +264,8 @@
   }
 
   #githubLink:hover {
-    color: white;
+    color: black;
     text-decoration: none;
-    background-color: orange;
   }
 
   #navHomeButton:hover {
