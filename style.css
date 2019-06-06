@@ -273,15 +273,28 @@
     text-decoration: none;
   }
 
+  #navHomeButton {
+    color: white;
+    outline: none !important;
+    transition-duration: 0.6s;
+  }
+
   #navHomeButton:hover {
     color: orange;
     background-color: black;
+  }
+
+  #navLogoButton {
+    color: white;
+    outline: none !important;
+    transition-duration: 0.6s;
   }
 
   #navLogoButton:hover {
     color: orange;
     background-color: black;
   }
+
 
   #navTogglerButton:hover {
     color: orange;
