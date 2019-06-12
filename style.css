@@ -318,6 +318,20 @@
     background-color: black;
   }
 
+  .myMap {
+    /* margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px; */
+
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+     -ms-filter: grayscale(100%);
+      -o-filter: grayscale(100%);
+         filter: grayscale(100%);
+  }
+
+
+
   /* My Portfolio */
   .project {
     width: 100%;
