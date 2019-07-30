@@ -1,14 +1,14 @@
 function openNav() {
-    document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("mySidenav").style.width = "250px";
 
-  }
-  
-  function closeNav() {
-    document.getElementById("mySidenav").style.width = "0";
-  }
+}
 
-  $(".myName").on("click", function () {
-    document.getElementById("mySidenav").style.width = "0";
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+
+$(".myName").on("click", function () {
+  document.getElementById("mySidenav").style.width = "0";
 });
 
 
@@ -35,5 +35,20 @@ $("a").on('click', function (event) {
   } // End if
 });
 
+// Go to Top Button
+var btn = $('#goToTopButton');
+
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 300) {
+    btn.addClass('show');
+  } else {
+    btn.removeClass('show');
+  }
+});
+
+btn.on('click', function(e) {
+  e.preventDefault();
+  $('html, body').animate({scrollTop:0}, '300');
+});
 
 
